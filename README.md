@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 
-   [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logoColor=white&logo=portfolio&logoWidth=20&logoHeight=20&labelPadding=2px)]([https://www.your-portfolio-link.com](https://vishalrai.netlify.app/))
+   [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logoColor=white&logo=portfolio&logoWidth=20&logoHeight=20&labelPadding=2px)](https://vishalrai.netlify.app/)
    [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20&logoHeight=20&labelPadding=2px)](https://twitter.com/Vishal____rai)
    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&logoHeight=20&labelPadding=2px)](https://www.linkedin.com/in/vishalrai07/)
    [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20&logoHeight=20&labelPadding=2px)](https://www.instagram.com/vishal____rai)
