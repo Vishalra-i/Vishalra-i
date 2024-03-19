@@ -37,4 +37,4 @@
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalra-i&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vishalra-i&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vishalra-i&theme=radical)](https://git.io/streak-stats)
