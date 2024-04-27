@@ -33,7 +33,7 @@
  [![Appwrite](https://img.shields.io/badge/-Appwrite-025E8C?style=for-the-badge&logo=appwrite&logoWidth=20&logoHeight=20&labelPadding=2px)]()
  [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&logoHeight=20&labelPadding=2px)]()
  [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoWidth=20&logoHeight=20&labelPadding=2px)]()
- [![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoWidth=20&logoHeight=20&labelPadding=2px)]()
+[![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logoColor=white&logo=react-router&logoWidth=20&logoHeight=20&labelPadding=2px)](https://reactrouter.com/)
  [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logoColor=white&logo=redux&logoWidth=20&logoHeight=20&labelPadding=2px)]()
 
  [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logoColor=white&logo=react&logoWidth=20&logoHeight=20&labelPadding=2px)](https://reactnative.dev/)
