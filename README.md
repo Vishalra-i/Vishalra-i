@@ -18,7 +18,9 @@
  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=white&logo=html5&logoWidth=20&logoHeight=20&labelPadding=2px)]()
  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoWidth=20&logoHeight=20&labelPadding=2px)]()
  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript&logoWidth=20&logoHeight=20&labelPadding=2px)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logoColor=white&logo=typescript&logoWidth=20&logoHeight=20&labelPadding=2px)](https://www.typescriptlang.org/)
  [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logoColor=white&logo=react&logoWidth=20&logoHeight=20&labelPadding=2px)]()
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logoColor=white&logo=next.js&logoWidth=20&logoHeight=20&labelPadding=2px)](https://nextjs.org/)
  [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logoColor=white&logo=node.js&logoWidth=20&logoHeight=20&labelPadding=2px)]()
  [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoWidth=20&logoHeight=20&labelPadding=2px)]()
  [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logoColor=white&logo=mongodb&logoWidth=20&logoHeight=20&labelPadding=2px)]()
@@ -33,6 +35,9 @@
  [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoWidth=20&logoHeight=20&labelPadding=2px)]()
  [![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoWidth=20&logoHeight=20&labelPadding=2px)]()
  [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logoColor=white&logo=redux&logoWidth=20&logoHeight=20&labelPadding=2px)]()
+
+ [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logoColor=white&logo=react&logoWidth=20&logoHeight=20&labelPadding=2px)](https://reactnative.dev/)
+
 
 
 ## 📊 GitHub Stats:
