@@ -1,7 +1,7 @@
 # Welcome to Vishal's GitHub Profile! 👋
 
 ## 💫 About Me:
--    I am a passionate fullstack developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js). My goal is to leverage my skills and experiences to develop innovative and user-friendly web applications that make a positive impact.
+-    I am a passionate fullstack developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and NextJs. My goal is to leverage my skills and experiences to develop innovative and user-friendly web applications that make a positive impact.
 - 👯 I’m looking to collaborate on fullstack projects.
 - 🌱 I’m currently learning advanced Nodejs and AWS.
 - 💬 Ask me about JavaScript, React, Next.js, Node.js, AWS, and any general software development questions.
